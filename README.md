@@ -50,12 +50,12 @@
 
 | **Technical Skills** |
 | - |
-| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL                                          |
-| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D), Postman, Adobe CC                                                                                           |
-| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB                                                                                                                                              |
-| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore |
-| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC                                                                                                                                     |
-| **Version Control:** <br> GitHub, GitLab                                                                                                                                                                  |
+| **Languages & Technologies:** <br> JavaScript, TypeScript, HTML, CSS, Ruby, Python, PHP, Java, Go, Solidity, Rust,                                                                                        |
+| **Frameworks and Libraries** <br> React, Next, Angular, Vue.js, Node.js, ExpressJs, Django, Laravel, Truffle, Hardhat, Foundry, web3.js, etherJs, The Graph,                                              |
+| **Platforms and Protocols:** <br> Ethereum, Bitcoin, Solana, Cosmos, Polkadot, BSC, Avalanche, Near, Polygon, Arbitrum, Zk-Rollups, Uniswap, Chainlink Oracles, Alchemy, Substrate,                       |
+| **Database:** <br> MySQL, PostgreSQL, MongoDB, SQLite, Redis,                                                                                                                                             |
+| **Containerization and Version Control:** <br>  Git, Github, Gitlab, Jira, Trello, Slack, Confluence, Asana, AWS, GCP, Vercel, Kubernate, Docker, Terraform,                                              |
+| **CI/CD and Testing:** <br> Jenkins CircleCI, Mocha, Jest, Cypress,                                                                                                                                       |
 
  <br/>
 
