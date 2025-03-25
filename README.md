@@ -19,7 +19,7 @@
 𒆙Expert in **blockchain development**, specializing in smart contracts using **Solidity**,**Rust**, **DeFi**, **NFTs**, and **Layer 1 & 2 solutions**.
 <br/>
 
-𒆙Experienced in **EVM**, **Cosmos SDK**, **Solana**, and **Substrate**, with a strong focus on **security**, **performance**, and **decentralized application (dApp) development**.
+𒆙Experienced in **EVM**, **Cosmos SDK**, **Solana**, and **Substrate**, with a strong focus on **security**, **performance**, and **dApp development**.
 
  <!-- [1.1] : Seaction Header : Insights & Interests -->
 
