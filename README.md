@@ -1,7 +1,7 @@
 <!-- [1] : Seaction Header : Main -->
 <h2 align="center">
  <strong> I go up to the SKY 𐂃༺ </strong><br> 
- 𒄆 <em> >/ , Architecture, Software Development, Product </em> 𒄆
+ 𒄆 <em> >/ Architecture, Software Development, Product </em> 𒄆
 </h2>
 <div align="center">
  <h3>
