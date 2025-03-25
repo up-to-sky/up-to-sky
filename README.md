@@ -90,6 +90,4 @@
 ##
 
 
-<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>
-
 </div>
