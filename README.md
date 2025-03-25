@@ -108,7 +108,6 @@
 [![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](#)
 [![Tendermint](https://img.shields.io/badge/Tendermint-2D374B?style=for-the-badge&logo=tendermint&logoColor=white)](#)
 [![Near](https://img.shields.io/badge/NEAR-000000?style=for-the-badge&logo=near&logoColor=white)](#)
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
