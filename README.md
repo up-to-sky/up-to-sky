@@ -25,7 +25,7 @@
 
 ║│█║▌║▌║▌│█║▌║▌║▌│█║▌║▌║█║▌║▌║▌│█║▌║▌║▌║ 
 
-<img src="./assets/images/2.jpg" height="44"/>
+<img src="./assets/images/3.jpg" height="44"/>
 
  <!-- [1.2] : Seaction Header : PROFILE VIEWS -->
 <img 
