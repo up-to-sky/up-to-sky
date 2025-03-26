@@ -8,7 +8,7 @@
  Full Stack Engineer &nbsp; ║ &nbsp;Blockchain Engineer
  </h3>
 
-<img src="./assets/images/batman_logo_with_flame.png" height="90"/>
+<img src="./assets/images/1.jpg" height="90"/>
 
 𒆙 **Senior Software Engineer** with **10+** years of experience in Web2 and Web3, especially focusing on blockchain Industry for over 7 years.
 <br/>
